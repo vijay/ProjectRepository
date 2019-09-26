@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="400771" started-at="2019-09-26T09:54:56Z" finished-at="2019-09-26T10:01:37Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="400771" started-at="2019-09-26T09:54:56Z" finished-at="2019-09-26T10:01:37Z">
+      <class name="OpenGlobe.GermanySVMX.TestCases">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:OpenGlobe.GermanySVMX.TestCases@6093dd95]" name="beforeClass" is-config="true" duration-ms="622" started-at="2019-09-26T15:24:56Z" finished-at="2019-09-26T15:24:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:OpenGlobe.GermanySVMX.TestCases@6093dd95]" name="beforeMethod" is-config="true" duration-ms="23116" started-at="2019-09-26T15:24:56Z" finished-at="2019-09-26T15:25:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void OpenGlobe.GermanySVMX.TestCases.PSSFRCFNAC01() throws java.lang.Throwable]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="PSSFRCFNAC01()[pri:0, instance:OpenGlobe.GermanySVMX.TestCases@6093dd95]" name="PSSFRCFNAC01" duration-ms="373952" started-at="2019-09-26T15:25:20Z" finished-at="2019-09-26T15:31:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PSSFRCFNAC01 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:OpenGlobe.GermanySVMX.TestCases@6093dd95]" name="afterMethod" is-config="true" duration-ms="1600" started-at="2019-09-26T15:31:34Z" finished-at="2019-09-26T15:31:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:OpenGlobe.GermanySVMX.TestCases@6093dd95]" name="afterClass" is-config="true" duration-ms="1426" started-at="2019-09-26T15:31:35Z" finished-at="2019-09-26T15:31:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- OpenGlobe.GermanySVMX.TestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
